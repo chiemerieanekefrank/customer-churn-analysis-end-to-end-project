@@ -58,6 +58,12 @@ Through this project, the following data analytics and technical skills were dev
 - Classification (Churn Prediction)
 - Power BI Dashboard Development
 
+## Project Highlights
+- End-to-end data analytics project (Data Cleaning → ML → Dashboard)
+- Built and evaluated multiple machine learning models
+- Achieved 95% accuracy using Random Forest (tuned)
+- Designed interactive Power BI dashboard for business insights
+
 ---
 
 ## Key Insights
@@ -91,4 +97,10 @@ Customer churn is driven by behavioral patterns including low engagement, mid-le
 ---
 
 ## Author
-[ANEKE CHIEMERIE FRANK]
+## 👤 Author
+
+**Aneke Chiemerie Frank**  
+- Data Analyst (Generative AI Data Analyst)  
+- Skilled in Excel, Power BI, SQL, Python 
+
+ LinkedIn: (https://www.linkedin.com/in/chiemerie-aneke-5501602b5/)
