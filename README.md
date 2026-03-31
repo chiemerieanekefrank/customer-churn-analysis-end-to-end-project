@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling-green)
+
 # Customer Churn Analysis & Prediction Project
 
 ## Overview
@@ -19,7 +23,6 @@ This project demonstrates hands-on application of end-to-end data analytics work
 - GitHub (Project documentation and version control)
 
 ## Skills Developed
-
 Through this project, the following data analytics and technical skills were developed:
 
 ### Data Processing & Analysis
@@ -97,8 +100,6 @@ Customer churn is driven by behavioral patterns including low engagement, mid-le
 ---
 
 ## Author
-## 👤 Author
-
 **Aneke Chiemerie Frank**  
 - Data Analyst (Generative AI Data Analyst)  
 - Skilled in Excel, Power BI, SQL, Python 
